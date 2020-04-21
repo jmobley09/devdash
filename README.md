@@ -1,3 +1,9 @@
+## Project Guides
+we will be going for an overall ui that looks similar to these
+http://shreyu-react.coderthemes.com/dashboard
+https://dashboardpack.com/live-demo-free/?livedemo=1262&v=7516fd43adaa
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
