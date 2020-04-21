@@ -1,0 +1,9 @@
+version: '3.7'
+services:
+    dev-dash-production:
+        container_name: production
+        build:
+            context: .
+            dockerfile: Dockerfile
+        ports:
+            - '3001:80'
