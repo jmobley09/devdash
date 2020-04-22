@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ## Project Guides
 we will be going for an overall ui that looks similar to these
 http://shreyu-react.coderthemes.com/dashboard
@@ -77,7 +76,6 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
 ## Docker
 
 Run `docker-compose up -d --build` and navigate to `localhost:3001`
-=======
+
 # devdash
 dashboard for development purposes
->>>>>>> master
